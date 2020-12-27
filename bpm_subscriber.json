@@ -1,0 +1,1 @@
+[{"id":"da05de1b.56cbf","type":"mongodb2 in","z":"e53407a.e4274f8","service":"_ext_","configNode":"a4775c6f.ae126","name":"yobitrudt_DB","collection":"bpm","operation":"insert","x":610,"y":100,"wires":[["ed9e2565.3e2418"]]},{"id":"a4775c6f.ae126","type":"mongodb2","z":"","uri":"mongodb://localhost:27017/admin","name":"admin","options":"","parallelism":"-1"}]
